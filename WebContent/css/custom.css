@@ -1,0 +1,23 @@
+hr {
+	margin-top: 0px;
+}
+
+#tabbedForm .tab-content {
+	color : white;
+	background-color: #337cbb;
+	padding : 5px 15px;
+}
+
+#tabbedForm .nav-pills > li > a {
+	border-radius: 0;
+}
+
+#tabbedForm {
+	border: 2px solid;
+	padding: 0;
+	margin-top: 25px;
+}
+
+.inputError {
+	border: 2px solid RED;
+}
